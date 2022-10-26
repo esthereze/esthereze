@@ -8,7 +8,7 @@ HTML5, CSS, product design. It's a long process but worth it
 end design portfolios and themes and design projects
 - 📫 How to reach me ...- Gmail: bloggyblog13@gmail.com
 
--😊🤗 Thank you
+- 😊🤗 Thank you
 
 <!---
 esthereze/esthereze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
